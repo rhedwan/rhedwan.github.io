@@ -12,7 +12,7 @@ This is a multple page school webiste with the  following features:
 
 
 # **Features :**
-- Mobile, Desktop and Tablet Respinsive
+- Mobile, Desktop and Tablet Responsive
 - Clean and friendly UI
 
 
