@@ -7,7 +7,7 @@ https://rhedwan.github.io/
 This is a multple page school webiste with the  following features:
 - Landing /Home Page 
 - Contact Page
-- Service Page
+- Service /Pricing Page
 - Blog Page
 
 
